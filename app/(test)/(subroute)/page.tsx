@@ -1,5 +1,4 @@
 const Page = () => {
-  return <div>Hello Test Page</div>;
+  return <div>rendered at subroute</div>;
 };
-
 export default Page;
